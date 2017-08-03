@@ -1,0 +1,32 @@
+.container {
+  margin-top: 50px;
+}
+p {
+  font-family: times, serif;
+}
+img {
+  margin: 0 auto;
+}
+#carousel-example-generic {
+  margin: 30px 0px;
+}
+.carousel-caption {
+  margin-bottom: -50px;
+}
+.reminder {
+  text-align: center;
+  padding-bottom: 30px;
+}
+.links {
+  margin: 0 20px;
+  background-color: #ffffff;
+}
+.tribute {
+  font-size: x-small;
+  text-align: center;
+}
+footer {
+  padding: 0px 50px;
+  margin: 0 0 40px 0;
+  font-family: sans-serif;
+}
